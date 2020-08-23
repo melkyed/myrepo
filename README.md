@@ -1,2 +1,3 @@
-# myrepoA line I wrote from my local computer
-adding a line
+# myrepoA a machine learning collections from my local machine.
+R
+R-Studio
